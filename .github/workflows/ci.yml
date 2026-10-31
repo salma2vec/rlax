@@ -2,7 +2,7 @@ name: ci
 
 on:
   push:
-    branches: ["main"]
+    branches: ["codex/verify-dpg-20261031"]
   pull_request:
     branches: ["main"]
   schedule:
